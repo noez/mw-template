@@ -46,7 +46,7 @@
                             <img src="http://placehold.it/200x200" class="img-responsive img-circle" alt="Responsive image">
                             <h3><a href="">Clean layout</a></h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, soluta, fugit, fuga ipsam consectetur eum voluptatum aspernatur ex minima laborum provident voluptates molestiae reprehenderit eveniet repellat. Voluptates beatae recusandae doloremque!</p>
-                            <a href="#" class="btn btn-default btn-theme">Learn More</a>
+                            <a href="service-detail.php" class="btn btn-default btn-theme">Learn More</a>
                         </div>
                         <div class="col-md-4 service">
                             <img src="http://placehold.it/200x200" class="img-responsive img-circle" alt="Responsive image">
@@ -58,7 +58,7 @@
                             <img src="http://placehold.it/200x200" class="img-responsive img-circle" alt="Responsive image">
                             <h3><a href="">Powerful Options Panel</a></h3>
                             <p>Magni, ex, pariatur, vitae non reiciendis doloribus quas ipsa praesentium repellendus sed quod ratione accusantium amet consectetur quam numquam soluta laborum sunt laboriosam laudantium expedita culpa nobis asperiores commodi sequi?</p>
-                            <a href="#" class="btn btn-default btn-theme">Learn More</a>
+                            <a href="service-detail.php" class="btn btn-default btn-theme">Learn More</a>
                         </div>
                         
                     </div>    
@@ -67,19 +67,19 @@
                             <img src="http://placehold.it/200x200" class="img-responsive img-circle" alt="Responsive image">
                             <h3><a href="">Clean layout</a></h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, soluta, fugit, fuga ipsam consectetur eum voluptatum aspernatur ex minima laborum provident voluptates molestiae reprehenderit eveniet repellat. Voluptates beatae recusandae doloremque!</p>
-                            <a href="#" class="btn btn-default btn-theme">Learn More</a>
+                            <a href="service-detail.php" class="btn btn-default btn-theme">Learn More</a>
                         </div>
                         <div class="col-md-4 service">
                             <img src="http://placehold.it/200x200" class="img-responsive img-circle" alt="Responsive image">
                             <h3><a href="">Responsive Design</a></h3>
                             <p>Ratione, aliquam, incidunt sint rem magni excepturi impedit ipsam dicta explicabo nesciunt exercitationem doloribus eveniet consequuntur a hic molestiae eius ad mollitia minus itaque! Fugit, suscipit tenetur cupiditate ad at!</p>
-                            <a href="#" class="btn btn-default btn-theme">Learn More</a>
+                            <a href="service-detail.php" class="btn btn-default btn-theme">Learn More</a>
                         </div>
                         <div class="col-md-4 service">
                             <img src="http://placehold.it/200x200" class="img-responsive img-circle" alt="Responsive image">
                             <h3><a href="">Powerful Options Panel</a></h3>
                             <p>Magni, ex, pariatur, vitae non reiciendis doloribus quas ipsa praesentium repellendus sed quod ratione accusantium amet consectetur quam numquam soluta laborum sunt laboriosam laudantium expedita culpa nobis asperiores commodi sequi?</p>
-                            <a href="#" class="btn btn-default btn-theme">Learn More</a>
+                            <a href="service-detail.php" class="btn btn-default btn-theme">Learn More</a>
                         </div>
                         
                     </div> 
@@ -88,19 +88,19 @@
                             <img src="http://placehold.it/200x200" class="img-responsive img-circle" alt="Responsive image">
                             <h3><a href="">Clean layout</a></h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, soluta, fugit, fuga ipsam consectetur eum voluptatum aspernatur ex minima laborum provident voluptates molestiae reprehenderit eveniet repellat. Voluptates beatae recusandae doloremque!</p>
-                            <a href="#" class="btn btn-default btn-theme">Learn More</a>
+                            <a href="service-detail.php" class="btn btn-default btn-theme">Learn More</a>
                         </div>
                         <div class="col-md-4 service">
                             <img src="http://placehold.it/200x200" class="img-responsive img-circle" alt="Responsive image">
                             <h3><a href="">Responsive Design</a></h3>
                             <p>Ratione, aliquam, incidunt sint rem magni excepturi impedit ipsam dicta explicabo nesciunt exercitationem doloribus eveniet consequuntur a hic molestiae eius ad mollitia minus itaque! Fugit, suscipit tenetur cupiditate ad at!</p>
-                            <a href="#" class="btn btn-default btn-theme">Learn More</a>
+                            <a href="service-detail.php" class="btn btn-default btn-theme">Learn More</a>
                         </div>
                         <div class="col-md-4 service">
                             <img src="http://placehold.it/200x200" class="img-responsive img-circle" alt="Responsive image">
                             <h3><a href="">Powerful Options Panel</a></h3>
                             <p>Magni, ex, pariatur, vitae non reiciendis doloribus quas ipsa praesentium repellendus sed quod ratione accusantium amet consectetur quam numquam soluta laborum sunt laboriosam laudantium expedita culpa nobis asperiores commodi sequi?</p>
-                            <a href="#" class="btn btn-default btn-theme">Learn More</a>
+                            <a href="service-detail.php" class="btn btn-default btn-theme">Learn More</a>
                         </div>
                         
                     </div> 

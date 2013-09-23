@@ -39,8 +39,9 @@
             <div class="container">
                 <h1>Blog</h1>
                 <ol class="breadcrumb">
-                    <li><a href="#">Home</a></li>
-                    <li class="active">Blog</li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="blog.php">Blog</a></li>
+                    <li class="active">Post Title</li>
                 </ol>
             </div>
         </header>
@@ -48,103 +49,95 @@
             <div class="row">
                 <div class="col-md-9">
                     <div class="row post-entry">
-                        <div class="col-md-3">
+                        <div class="col-md-10 post-body">
+                            <div class="post-thumbnail">
+                                <img src="http://placehold.it/700x525" width="530" alt="" class="img-responsive">
+                            </div>
                             <ul class="post-features">
                                 <li>05/09/2013</li>
                                 <li><a href="">In Tag</a></li>
                                 <li><a href="">By Admin</a></li>
                                 <li><a href="">4 comments</a></li>
                             </ul>
-                        </div>
-                        <div class="col-md-8 post-body">
-                            <div class="post-thumbnail">
-                                <img src="http://placehold.it/700x525" width="530" alt="" class="img-responsive">
-                            </div>
                             <h1 class="post-title">Post Title</h1>
 
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, aliquam, accusantium,
                                 debitis maxime libero commodi unde molestias temporibus tempore illum dignissimos sunt
                                 itaque ducimus labore sit! Repudiandae, quam nihil exercitationem.</p>
-                            <a href="blog-post.php" class="btn btn-primary btn-theme">read more</a>
-                        </div>
-
-                    </div>
-                    <div class="row post-entry">
-                        <div class="col-md-3">
-                            <ul class="post-features">
-                                <li>05/09/2013</li>
-                                <li><a href="">In Tag</a></li>
-                                <li><a href="">By Admin</a></li>
-                                <li><a href="">4 comments</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-8 post-body">
-                            <div class="post-thumbnail">
-                                <img src="http://placehold.it/700x525" width="530" alt="" class="img-responsive">
-                            </div>
-                            <h1 class="post-title">Post Title</h1>
 
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, aliquam, accusantium,
                                 debitis maxime libero commodi unde molestias temporibus tempore illum dignissimos sunt
                                 itaque ducimus labore sit! Repudiandae, quam nihil exercitationem.</p>
-                            <a href="blog-post.php" class="btn btn-primary btn-theme">read more</a>
-                        </div>
-
-                    </div>
-                    <div class="row post-entry">
-                        <div class="col-md-3">
-                            <ul class="post-features">
-                                <li>05/09/2013</li>
-                                <li><a href="">In Tag</a></li>
-                                <li><a href="">By Admin</a></li>
-                                <li><a href="">4 comments</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-8 post-body">
-                            <div class="post-thumbnail">
-                                <img src="http://placehold.it/700x525" width="530" alt="" class="img-responsive">
-                            </div>
-                            <h1 class="post-title">Post Title</h1>
 
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, aliquam, accusantium,
                                 debitis maxime libero commodi unde molestias temporibus tempore illum dignissimos sunt
                                 itaque ducimus labore sit! Repudiandae, quam nihil exercitationem.</p>
-                            <a href="blog-post.php" class="btn btn-primary btn-theme">read more</a>
-                        </div>
-
-                    </div>
-                    <div class="row post-entry">
-                        <div class="col-md-3">
-                            <ul class="post-features">
-                                <li>05/09/2013</li>
-                                <li><a href="">In Tag</a></li>
-                                <li><a href="">By Admin</a></li>
-                                <li><a href="">4 comments</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-8 post-body">
-                            <div class="post-thumbnail">
-                                <img src="http://placehold.it/700x525" width="530" alt="" class="img-responsive">
-                            </div>
-                            <h1 class="post-title">Post Title</h1>
 
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, aliquam, accusantium,
                                 debitis maxime libero commodi unde molestias temporibus tempore illum dignissimos sunt
                                 itaque ducimus labore sit! Repudiandae, quam nihil exercitationem.</p>
-                            <a href="blog-post.php" class="btn btn-primary btn-theme">read more</a>
+
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, aliquam, accusantium,
+                                debitis maxime libero commodi unde molestias temporibus tempore illum dignissimos sunt
+                                itaque ducimus labore sit! Repudiandae, quam nihil exercitationem.</p>
                         </div>
 
                     </div>
-                    <div class="blog-pagination">
-                        <ul class="pagination">
-                            <li><a href="#">&laquo;</a></li>
-                            <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                            <li><a href="#">4</a></li>
-                            <li><a href="#">5</a></li>
-                            <li><a href="#">&raquo;</a></li>
-                        </ul>
+                    <div class="clear"></div>
+                    <div class="col-md-10 related-posts">
+                        <h3>Related Articles</h3>
+
+                        <div class="row related-entry">
+                            <div class="col-xs-3 col-sm-3 col-md-3">
+                                <div class="post-thumbnail">
+                                    <a href="#">
+                                        <img src="http://placehold.it/700x525" alt=""
+                                             class="img-thumbnail img-responsive">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-xs-9 col-sm-9 col-md-9">
+                                <h4><a href="">Post Title</a></h4>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium animi
+                                    doloremque dolores dolorum eaque ex illo ipsam, iusto nesciunt nulla, quasi quo quos
+                                    sequi sint vel velit, veritatis vitae voluptate.</p>
+                            </div>
+                        </div>
+                        <div class="row related-entry">
+                            <div class="col-xs-3 col-sm-3 col-md-3">
+                                <div class="post-thumbnail">
+                                    <a href="#">
+                                        <img src="http://placehold.it/700x525" alt=""
+                                             class="img-thumbnail img-responsive">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-xs-9 col-sm-9 col-md-9">
+                                <h4><a href="">Post Title</a></h4>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium animi
+                                    doloremque dolores dolorum eaque ex illo ipsam, iusto nesciunt nulla, quasi quo quos
+                                    sequi sint vel velit, veritatis vitae voluptate.</p>
+                            </div>
+                        </div><div class="row related-entry">
+                            <div class="col-xs-3 col-sm-3 col-md-3">
+                                <div class="post-thumbnail">
+                                    <a href="#">
+                                        <img src="http://placehold.it/700x525" alt=""
+                                             class="img-thumbnail img-responsive">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-xs-9 col-sm-9 col-md-9">
+                                <h4><a href="">Post Title</a></h4>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium animi
+                                    doloremque dolores dolorum eaque ex illo ipsam, iusto nesciunt nulla, quasi quo quos
+                                    sequi sint vel velit, veritatis vitae voluptate.</p>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
                 <div class="col-md-3 sidebar-container">

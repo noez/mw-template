@@ -2,7 +2,7 @@
 echo "<footer class='site-footer'>
                 <div class='container'>
                     <div class='col-md-3 footer-box'>
-                        <h4>Cleaner woordpress theme</h4>
+                        <h4>MicroMW theme</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, eum error nihil excepturi nostrum pariatur magni sit unde quo repudiandae libero aut consequatur! Ipsum, molestiae odit optio aliquid placeat vitae.</p>
                     </div>
                     <div class='col-md-3 footer-box'>

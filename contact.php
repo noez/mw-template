@@ -32,26 +32,35 @@
             <div class="site-main">
                 <header class="page-header">
                     <div class="container">
-                        <h1>Services</h1>
-                        <ol class="breadcrumb">
-                          <li><a href="#">Home</a></li>
-                          <li><a href="">Services</a></li>
-                          <li class="active">Service Title</li>
-                        </ol>
+                        <h1>Contact</h1>
                     </div>
                 </header>
                 <div class="container content-area">
                     <div class="row">
                         <div class="col-md-9">
                             <div class="row">
-                                <div class="col-md-10 post-body">
-                                    <div class="post-thumbnail">
-                                        <img src="http://placehold.it/700x525" alt="" class="img-responsive">
+                                <div class="col-md-10 get-in">
+                                    <div class="map-container">
                                     </div>
-                                    <h1 class="post-title">Service Title</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, aliquam, accusantium, debitis maxime libero commodi unde molestias temporibus tempore illum dignissimos sunt itaque ducimus labore sit! Repudiandae, quam nihil exercitationem.</p>
-                                    <p>In, nemo ullam amet vitae blanditiis quaerat dolores consequatur inventore odio nisi at perspiciatis officia corporis ratione nam ab earum vero sit praesentium beatae temporibus facere quam pariatur vel ea.</p>
-                                    <p>In, nemo ullam amet vitae blanditiis quaerat dolores consequatur inventore odio nisi at perspiciatis officia corporis ratione nam ab earum vero sit praesentium beatae temporibus facere quam pariatur vel ea.</p>
+                                    <div class="form-body">
+                                        <h3>Leave us a message – we’d love to hear from you!</h3>
+                                        <form role="form" id="get-in-touch">
+                                            <div class="form-group">
+                                                <label for="name">Your Name:</label>
+                                                <input type="text" class="form-control" id="name" name="name"
+                                                       placeholder="Enter your name">
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="email">Your Email address:</label>
+                                                <input type="email" class="form-control" id="email" name="email" placeholder="email@example.com">
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="comments">Comments</label>
+                                                <textarea class="form-control" rows="4" cols="50" name="comments" id="comments" ></textarea>
+                                            </div>
+                                            <input type="submit" class="btn btn-default btn-theme" value="Send"/>
+                                        </form>
+                                    </div>
                                 </div>
                             
                             </div>
@@ -101,8 +110,8 @@
         </div>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=en"></script>
         <script src="js/plugins.js"></script>
-        
         <script src="js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
